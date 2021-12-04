@@ -1,7 +1,12 @@
 # CopyLeft
 ![copyleft](https://user-images.githubusercontent.com/20923018/144321291-ee657dd5-f5b6-4448-9710-7daaa95e0cd1.png)
 
-
+&anticopy; 
+& Anti-Copying; &anticopy;
+©
+ &now.Year; currentYear(str, d)
+ {{ dateFormat "2006" now }} 
+&#1F12F;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -21,3 +26,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+# Developer's words
+For _Educational & Personal Use Only (for your eyes only, maybe share with friends & family 
+- the more the merrier, right ;)
+enjoy & have fun, as you can _ 
+for other uses: it is Illegal to Contribute the _Improved version_,
+**except as _Free Software_**
+
+
+# References
+https://www.gnu.org/licenses/licenses.en.html#WhatIsCopyleft
